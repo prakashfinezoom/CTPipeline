@@ -2,5 +2,9 @@
   "jest": {
   "preset": "jest-playwright-preset"
 },
- "scripts": {"test": "quiklyzLogin.spec.ts"}
+ "scripts": {"test: quiklyzLogin.spec.ts":"playwright test"
+ },
+   "devDependencies": {
+    "@playwright/test": "^1.22.2",
+   }
 }
