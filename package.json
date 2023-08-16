@@ -1,5 +1,4 @@
 {
-  "tests": "playwright test --config=playwright.config.ts --project=chromium",
-  "tests": "npx playwright test quiklyzLogin.spec.ts"
+  "tests": "playwright test --config=playwright.config.ts --project=chromium"
   
 }
