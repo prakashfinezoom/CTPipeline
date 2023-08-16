@@ -1,6 +1,6 @@
 {
   "jest": {
   "preset": "jest-playwright-preset"
-}
+},
  "scripts": {"test": "quiklyzLogin.spec.ts"}
 }
