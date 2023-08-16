@@ -1,6 +1,13 @@
-
-  {
-  "tests": "playwright test --config=playwright.config.ts --project=chromium"
-  
+{
+  "name": "jest-playwright-preset",
+  "version": "3.0.1",
+  "main": "index.js",
+  "description": "Running tests using Jest & Playwright.",
+  "license": "MIT",
+  "keywords": [
+    "jest",
+    "playwright",
+    "jest-playwright",
+    "jest-playwright-preset"
+  ],
 }
-
