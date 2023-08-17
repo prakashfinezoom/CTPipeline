@@ -1,5 +1,8 @@
 {
   "jest": {
   "preset": "jest-playwright-preset"
-}
+},
+  "scripts":{
+    "test:parallel": "npx playwright test tests"
+  }
 }
