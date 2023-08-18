@@ -1,7 +1,7 @@
 {
     {
   "tests": "playwright test --config=playwright.config.ts --project=chromium"
-}
+},
  "scripts":{
    "test": "npx playwright test quiklyzLogin.spec.ts"
  }
