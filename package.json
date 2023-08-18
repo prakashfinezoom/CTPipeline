@@ -1,6 +1,6 @@
-{
+
     {
   "tests": "playwright test --config=playwright.config.ts --project=chromium"
 }
  
-}
+
